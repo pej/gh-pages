@@ -3,7 +3,7 @@
     <title>test</title>
     <link href="https://pej.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://pej.github.io/gh-pages" />
-    <updated>2024-01-07T16:08:45+01:00</updated>
+    <updated>2024-01-07T17:10:35+01:00</updated>
     <author>
         <name>popol</name>
     </author>
@@ -19,7 +19,7 @@
         <media:content url="https://pej.github.io/gh-pages/media/posts/2/InShot_20230731_230411048.jpg" medium="image" />
             <category term="zig"/>
 
-        <updated>2024-01-07T16:08:45+01:00</updated>
+        <updated>2024-01-07T17:10:35+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://pej.github.io/gh-pages/media/posts/2/InShot_20230731_230411048.jpg" alt="" />
@@ -30,7 +30,8 @@
             <![CDATA[
                     <p><img src="https://pej.github.io/gh-pages/media/posts/2/InShot_20230731_230411048.jpg" class="type:primaryImage" alt="" /></p>
                 <p>zdkldkzlkmldz</p>
-<p> </p>
+<figure class="post__video"><video loading="lazy" width="710" height="350" style="width: 710px; height: 350px;" controls="controls" data-mce-fragment="1">
+<source src="https://pej.github.io/gh-pages/media/files/GH013245.MP4" type="video/mp4" /></video></figure>
 <p>zlemelmlzmùf</p>
 <p> </p>
 <p>pierre</p>
