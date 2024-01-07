@@ -3,7 +3,7 @@
     <title>test</title>
     <link href="https://pej.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://pej.github.io/gh-pages" />
-    <updated>2024-01-07T15:13:37+01:00</updated>
+    <updated>2024-01-07T15:47:26+01:00</updated>
     <author>
         <name>popol</name>
     </author>
@@ -17,9 +17,22 @@
         <link href="https://pej.github.io/gh-pages/hjijhj.html"/>
         <id>https://pej.github.io/gh-pages/hjijhj.html</id>
 
-        <updated>2024-01-07T15:13:37+01:00</updated>
-            <summary></summary>
-        <content></content>
+        <updated>2024-01-07T15:47:26+01:00</updated>
+            <summary>
+                <![CDATA[
+                    zdkldkzlkmldz zlemelmlzmùf pierre de
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>zdkldkzlkmldz</p>
+<p> </p>
+<p>zlemelmlzmùf</p>
+<p> </p>
+<p>pierre</p>
+<p>de</p>
+            ]]>
+        </content>
     </entry>
     <entry>
         <title>zjdklzjkdlz</title>
