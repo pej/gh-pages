@@ -1,0 +1,37 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "test",
+    "description": "",
+    "home_page_url": "https://pej.github.io/gh-pages",
+    "feed_url": "https://pej.github.io/gh-pages/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "popol"
+    },
+    "items": [
+        {
+            "id": "https://pej.github.io/gh-pages/hjijhj.html",
+            "url": "https://pej.github.io/gh-pages/hjijhj.html",
+            "title": "hjijhj",
+            "author": {
+                "name": "popol"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-01-07T15:13:37+01:00",
+            "date_modified": "2024-01-07T15:13:37+01:00"
+        },
+        {
+            "id": "https://pej.github.io/gh-pages/zjdklzjkdlz.html",
+            "url": "https://pej.github.io/gh-pages/zjdklzjkdlz.html",
+            "title": "zjdklzjkdlz",
+            "author": {
+                "name": "popol"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-01-07T15:13:31+01:00",
+            "date_modified": "2024-01-07T15:13:31+01:00"
+        }
+    ]
+}
